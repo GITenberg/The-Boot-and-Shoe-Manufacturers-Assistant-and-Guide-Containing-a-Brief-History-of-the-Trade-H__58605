@@ -1,5 +1,8 @@
 _repo: The-Boot-and-Shoe-Manufacturers-Assistant-and-Guide-Containing-a-Brief-History-of-the-Trade-H__58605
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58605-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '1090'
     url: http://www.gutenberg.org/2009/agents/1090
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58605#The-Boot-and-Shoe-Manufacturers-Assistant-and-Guide-Containing-a-Brief-History-of-the-Trade-H_
 gutenberg_issued: '2019-01-03'
 gutenberg_type: Text
 identifiers:
